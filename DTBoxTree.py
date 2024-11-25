@@ -1,5 +1,5 @@
 """
-DT-Box
+DT-Box-Inference
 Pavel Chigirev, pavelchigirev.com, 2023-2024
 See LICENSE.txt for details
 """
